@@ -7,3 +7,5 @@
 - javascript
 - react 
 - boostrap
+
+# estos son mis hobbies 
