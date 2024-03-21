@@ -2,3 +2,8 @@
 
 
 # Mis habilidades son:
+- html
+- css 
+- javascript
+- react 
+- boostrap
