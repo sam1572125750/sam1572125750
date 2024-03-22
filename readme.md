@@ -7,5 +7,3 @@
 - javascript
 - react 
 - boostrap
-# aprendiendo habilidades blandas
-- tecnica 
