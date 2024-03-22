@@ -7,3 +7,8 @@
 - javascript
 - react 
 - boostrap
+
+# estas son mis skills 
+- tecnico
+- bilingue
+- inglesh avanzado
