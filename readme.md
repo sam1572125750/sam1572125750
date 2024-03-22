@@ -7,4 +7,6 @@
 - javascript
 - react 
 - boostrap
-# estamos en seccion de Develop
+# estamos seccion de peliculas 
+- rambo
+- titanic
